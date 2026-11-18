@@ -5,54 +5,61 @@ Transcripts of Mriya Report broadcasts, 2022 — part 1.
 Published by **Prime Rogue Inc.** as source material for journalism about the Mriya Aid and
 Mriya Report organisations.
 
-**Read `LICENSE` and `COPYRIGHT.md` before reusing anything.** Two legally distinct kinds
-of material are in here and they are not under the same terms: the transcription work is
-CC BY 4.0, and **the spoken content is not licensed here at all.**
+**Read `LICENSE` and `COPYRIGHT.md` first.** Prime Rogue claims **no ownership of the
+recordings or of the transcript text** — only of its own analysis, which is CC BY-NC 4.0.
 
-## Accuracy notice — read this before quoting anything
+## Source
 
-**These transcripts contain errors.** Machine transcription mishears names, technical terms
-and crosstalk, and it misattributes speech between speakers on a live multi-speaker
-broadcast.
+The organisation's own **public YouTube channel.**
+
+This is a **preservation effort under time pressure**: material by the same publisher has
+been removed from other platforms. Capture precedes transcription for that reason — a
+recording that disappears cannot be transcribed later, whereas a recording in hand can be
+transcribed any time.
+
+## Accuracy notice — read before quoting anything
+
+**These transcripts contain errors.** Machine transcription mishears names and technical
+terms, and on a live multi-speaker broadcast it **misattributes speech between speakers.**
 
 **The recording governs. The transcript is a finding aid.**
 
-If you intend to quote, attribute a statement to a named person, or rely on any of this:
-**go to the recording at the cited timestamp and listen.** A transcript that puts words in
-a living person's mouth is a problem whoever repeats it, and a plausible-looking transcript
-is more dangerous than an obviously rough one.
+Before you quote, attribute a statement to a named person, or rely on any of this: **go to
+the recording at the cited timestamp and listen.** A plausible-looking transcript is more
+dangerous than an obviously rough one, and a transcript that puts words in a living
+person's mouth is a problem for whoever repeats it.
 
-Known limits are listed per file. Anything marked `[inaudible]`, `[unclear]` or
-`[speaker uncertain]` is exactly that and should not be resolved by guessing.
+`[inaudible]`, `[unclear]` and `[speaker uncertain]` mean exactly that. Do not resolve them
+by guessing.
 
-## How to verify
+## Per-item header
 
-Each transcript carries, in its own header:
+Every transcript carries:
 
-- source recording identifier and URL, where one is public
-- recording SHA-256, where the audio was obtained
+- source video ID and channel, and the URL as at capture
+- **SHA-256 of the media file as acquired**, before any processing
+- capture date and time, UTC
 - transcription date, tool and version
-- speaker identification basis — **how** each speaker was identified, not just who
+- **the basis for each speaker identification** — "identified by self-introduction" and
+  "identified by voice similarity" are different claims and are not written the same way
+- whether the item is still live at source, and the date that was last checked
 
 Checksums let anyone re-run transcription on the same audio and diff the result. That is
-the intended check and it is encouraged.
+the intended check.
+
+## Where removal is asserted
+
+Recorded with: prior location, date last seen, and the archival record establishing it
+existed. **The removal is itself a documented event, not an aside** — and documenting it is
+as time-critical as the capture, because the evidence that something existed also decays.
 
 ## Repository status
 
-**Empty as of 2026-11-18.** The licensing and method framework is in place; no transcripts
-have been added yet.
-
-## Method
-
-Transcripts are produced from recordings obtained from public sources. No account access,
-no circumvention, no private material. Where audio could not be obtained, no transcript
-exists and the gap is recorded rather than filled.
-
-Speaker labels state their basis. "Identified by self-introduction" and "identified by
-voice similarity" are different claims and are not written the same way.
+**Framework only as of 2026-11-18.** Licensing, attribution, accuracy and minimisation
+rules are in place. No transcripts added yet.
 
 ## Corrections
 
-Corrections go to **kevin@primerogueinc.com** and are made against the recording. They are
-logged, not silently applied — a transcript repository whose history can be quietly rewritten
-is worth nothing to anyone relying on it.
+**kevin@primerogueinc.com.** Made against the recording, logged rather than silently
+applied. A transcript repository whose history can be quietly rewritten is worth nothing to
+anyone relying on it.
