@@ -1,0 +1,44 @@
+# Licence
+
+This repository contains two legally distinct kinds of material. They are **not** under the
+same terms. Read `COPYRIGHT.md` before reusing anything.
+
+## 1. Prime Rogue Inc.'s own contributions — CC BY 4.0
+
+Copyright © 2026 Prime Rogue Inc.
+
+The following are Prime Rogue Inc.'s own work and are licensed under the
+**Creative Commons Attribution 4.0 International Licence (CC BY 4.0)**:
+
+- the transcription itself, as a work of authorship
+- speaker labelling, segmentation and timestamps
+- file structure, naming, indexing and metadata
+- checksums, manifests and provenance records
+- any editorial notes, corrections and annotations
+
+You may share and adapt these, including commercially, with attribution to
+Prime Rogue Inc. Full licence text: https://creativecommons.org/licenses/by/4.0/legalcode
+
+**Attribution requested in this form:** "Transcription by Prime Rogue Inc.,
+mriya-report-transcripts-2022-1."
+
+## 2. The underlying spoken content — NOT licensed here
+
+**The words spoken in the recordings are not Prime Rogue Inc.'s to licence.**
+
+Copyright in the broadcasts and in the speakers' contributions rests with their respective
+rights holders. Nothing in this repository grants any licence to that material, and no
+such licence should be inferred from Part 1.
+
+It is reproduced here for **news reporting, research, criticism and review** under the fair
+dealing provisions of the Copyright Act (R.S.C. 1985, c. C-42), ss. 29–29.2. Fair dealing
+for news reporting requires attribution, and every transcript in this repository names its
+source accordingly.
+
+**If you intend to reuse the spoken content itself, that is between you and the rights
+holders. Clear it yourself.**
+
+## 3. No warranty
+
+Provided as-is. See the accuracy notice in `README.md`: these transcripts contain errors,
+and the recording governs wherever a transcript and a recording disagree.
