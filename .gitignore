@@ -1,0 +1,13 @@
+# Audio is never committed. See README, "Where the audio lives".
+audio/
+*.mp3
+*.m4a
+*.opus
+*.wav
+*.mp4
+*.webm
+
+# Working files
+*.tmp
+__pycache__/
+.venv/

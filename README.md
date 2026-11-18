@@ -63,3 +63,14 @@ rules are in place. No transcripts added yet.
 **kevin@primerogueinc.com.** Made against the recording, logged rather than silently
 applied. A transcript repository whose history can be quietly rewritten is worth nothing to
 anyone relying on it.
+
+---
+
+## Operations
+
+`OPERATIONS.md` — corpus measurements, repo layout, rotation rule, acquisition queue.
+`CONVENTIONS.md` — IDs, transcript states, speaker-basis codes, flag classes, redaction.
+`status/README.md` — counts. `index/` — the preservation indexes.
+`tools/capture-to-drive.ipynb` — capture run: indexes first, then site text, then media.
+
+Annotation, ranking and working status are investigation work product and are not carried here.

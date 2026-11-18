@@ -1,0 +1,2 @@
+# SHA-256 of every acquired audio file, whether or not the bytes are held in this repo.
+# Format: <hex>  <media_id>  <original filename>
